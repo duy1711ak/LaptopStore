@@ -23,7 +23,7 @@ Bước 4: Nhấn Chọn tệp và chọn file weblaptop.sql tron repository, sa
 ## Mở trang web
 Truy cập vào [localhost/Laptrinhweb](http://localhost/Laptrinhweb/) để mở trang web
 # Tính năng
-Khách hàng: Xem danh mục hàng hóa, giỏ hàng, đặt hàng<br>
+Khách hàng: Xem danh mục hàng hóa, giỏ hàng, đặt hàng, bình luận sản phẩm<br>
 Admin: Quản lí danh mục hàng hóa, quản lý tài khoản, quản lý đơn hàng
 # Truy cập vào trang admin
 Đăng nhập bằng tài khoản admin:<br>
