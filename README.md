@@ -4,12 +4,16 @@
 # Cài đặt
 ## Cài đặt XAMPP
 Bước 1: Tải file cài đặt XAMPP tại: [www.apachefriends.org/download.html](https://www.apachefriends.org/download.html).
+```
 Bước 2: Tới trang download và chọn phiên bản tải về
+```
 Bước 3: Sau khi tải về, mở file .exe chạy. (Tránh cài đặt XAMPP vào thư mục C:\Program Files). Chọn cài đặt toàn bộ các component của XAMPP.
+```
 Bước 4: Xác nhận địa chỉ thư mục đích là C:\xampp. Sau đó cài đặt tiếp.
+```
 Bước 5: Chờ quá trình tải về hoàn tất. Nhấn Finish, một hộp thoại hiện lên hỏi có muốn mở XAMPP Control Panel hay không. Lúc này quá trình cài đặt đã hoàn tất.
 ## Cài đặt vị trí cho source code
-Bước 1: Clone repository này.
+Bước 1: Clone repository này.\n
 Bước 2: Copy thư mục Laptrinhweb sang thư mục C:\xampp\htdocs
 # Chạy chương trình
 ## Chạy XAMPP server
