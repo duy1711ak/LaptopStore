@@ -27,9 +27,9 @@ Khách hàng: Xem danh mục hàng hóa, giỏ hàng, đặt hàng<br>
 Admin: Quản lí danh mục hàng hóa, quản lý tài khoản, quản lý đơn hàng
 # Truy cập vào trang admin
 Đăng nhập bằng tài khoản admin:<br>
-'''
+```
 Email: a@hcn.ade
 Mật khẩu: 123456
-'''
+```
 Mở dropdown list bên cạnh tên người dùng, chọn quản lý trang web. Trình duyệt sẽ mở trang admin.<br>
 Trong trang admin, nhấn nút LaptopStore để trở lại trang chủ
